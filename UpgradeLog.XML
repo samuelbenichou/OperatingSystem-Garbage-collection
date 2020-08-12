@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GarbageCollection">
+</Property><Property Name="Solution File" Value="D:\Research\projects\GarbageCollection\GarbageCollection.sln">
+</Property><Property Name="User Options File" Value="D:\Research\projects\GarbageCollection\GarbageCollection.suo">
+</Property><Property Name="Date" Value="יום שלישי 12 יוני 2012">
+</Property><Property Name="Time" Value="08:45">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GarbageCollection.sln" Description="File successfully backed up as D:\Research\projects\GarbageCollection\Backup\GarbageCollection.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GarbageCollection.suo" Description="File successfully backed up as D:\Research\projects\GarbageCollection\Backup\GarbageCollection.suo">
+</Event><Event ErrorLevel="0" Project="GarbageCollection" Source="GarbageCollection.csproj" Description="Project file successfully backed up as D:\Research\projects\GarbageCollection\Backup\GarbageCollection.csproj">
+</Event><Event ErrorLevel="0" Project="GarbageCollection" Source="SumExpression.cs" Description="File successfully backed up as D:\Research\projects\GarbageCollection\Backup\SumExpression.cs">
+</Event><Event ErrorLevel="0" Project="GarbageCollection" Source="CompoundExpression.cs" Description="File successfully backed up as D:\Research\projects\GarbageCollection\Backup\CompoundExpression.cs">
+</Event><Event ErrorLevel="0" Project="GarbageCollection" Source="Expression.cs" Description="File successfully backed up as D:\Research\projects\GarbageCollection\Backup\Expression.cs">
+</Event><Event ErrorLevel="0" Project="GarbageCollection" Source="MemoryAllocationUnit.cs" Description="File successfully backed up as D:\Research\projects\GarbageCollection\Backup\MemoryAllocationUnit.cs">
+</Event><Event ErrorLevel="0" Project="GarbageCollection" Source="ProductExpression.cs" Description="File successfully backed up as D:\Research\projects\GarbageCollection\Backup\ProductExpression.cs">
+</Event><Event ErrorLevel="0" Project="GarbageCollection" Source="Program.cs" Description="File successfully backed up as D:\Research\projects\GarbageCollection\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="GarbageCollection" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Research\projects\GarbageCollection\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GarbageCollection" Source="ValueExpression.cs" Description="File successfully backed up as D:\Research\projects\GarbageCollection\Backup\ValueExpression.cs">
+</Event><Event ErrorLevel="0" Project="GarbageCollection" Source="GarbageCollection.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GarbageCollection" Source="GarbageCollection.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GarbageCollection.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GarbageCollection.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GarbageCollection" Source="GarbageCollection.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
