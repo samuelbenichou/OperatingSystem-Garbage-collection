@@ -1,5 +1,10 @@
 # OperatingSystem-Garbage-collection
 
+![alt text]https://github.com/samuelbenichou/OperatingSystem-Garbage-collection/blob/master/unnamed.png)
+
+![Build Status](https://travis-ci.org/lemire/JavaFastPFOR.png)
+![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)
+
 The garbage collector, attempts to reclaim garbage, or memory occupied by objects that are no longer in use by the program.
 
 ## Mark and Sweep Algorithm
